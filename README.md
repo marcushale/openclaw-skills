@@ -60,6 +60,10 @@ PRs welcome. Each skill should:
 2. Include complete usage instructions in `SKILL.md`
 3. List any dependencies (CLI tools, env vars, APIs)
 
+## Other Skills I Use
+
+Looking for more? Check out [COMMUNITY_SKILLS.md](COMMUNITY_SKILLS.md) for 26 additional skills I use daily — all available on [ClawHub](https://clawhub.com).
+
 ## License
 
 MIT
