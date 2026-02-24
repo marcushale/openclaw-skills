@@ -23,6 +23,7 @@ Then restart your OpenClaw gateway or reload skills.
 
 | Skill | Description |
 |-------|-------------|
+| [rtk-exec](skills/rtk-exec/) | Token-optimized command wrapper using RTK (60-95% savings on git, grep, ls, tests) |
 | [superdesign](skills/superdesign/) | Generate UI mockups as standalone HTML with Tailwind CSS |
 | [interface-design](skills/interface-design/) | Systematic UI design principles for dashboards and apps |
 | [website-extract](skills/website-extract/) | Extract design systems (colors, fonts, spacing) from any URL |
